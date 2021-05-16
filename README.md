@@ -1,4 +1,4 @@
-# Sberbank-Acquirer-PHP-SDK
+# Sberbank-Acquirer-SDK
 
 Библиотека для интеграции с процессинговым центром [ПАО "Сбербанк"](https://sberbank.ru)
 

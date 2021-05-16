@@ -1,8 +1,8 @@
 <?php
 
 /**
- * Файл из репозитория Sberbank-Acquirer-PHP-SDK
- * @link https://github.com/itpanda-llc/sberbank-acquirer-php-sdk
+ * Файл из репозитория Sberbank-Acquirer-SDK
+ * @link https://github.com/itpanda-llc/sberbank-acquirer-sdk
  */
 
 namespace Panda\Sberbank\AcquirerSdk\Exception;

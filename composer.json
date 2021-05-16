@@ -1,7 +1,7 @@
 {
     "name": "itpanda-llc/sberbank-acquirer-sdk",
     "description": "Library for integration with processing center of PJSC Sberbank",
-    "homepage": "https://github.com/itpanda-llc/sberbank-acquirer-php-sdk",
+    "homepage": "https://github.com/itpanda-llc/sberbank-acquirer-sdk",
     "license": "MIT",
     "authors": [
         {
